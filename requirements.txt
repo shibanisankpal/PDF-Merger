@@ -1,3 +1,2 @@
-python
 PyPDF2
 io
