@@ -18,13 +18,12 @@ The PDF Merger App is a simple web application that allows users to merge multip
 
 #3 Link to Application
 
-[Link to application]
+[Link to application](https://pdf-merger-773h7kdr4j.streamlit.app/)
 
 ## Privacy and Security
 
 - **No Data Storage**: The PDF Merger App does not store any user data, including the uploaded PDF files and the resulting merged PDF.
 - **Data Encryption**: If accessed over the internet, the app uses encryption to protect data during transmission.
-- **User Consent**: The app explicitly asks for user consent before merging the uploaded PDF files.
 - **Data Deletion**: Uploaded PDF files are processed in-memory and discarded once the merging process is complete.
 
 
