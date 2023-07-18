@@ -16,7 +16,7 @@ The PDF Merger App is a simple web application that allows users to merge multip
 2. Merge PDFs: Click the "Merge PDFs" button to combine the uploaded PDFs into a single merged PDF.
 3. Download Merged PDF: Once the merging process is complete, the app will provide a downloadable link for the merged PDF. The merged PDF is generated in-memory and not stored on the server.
 
-#3 Link to Application
+## Link to Application
 
 [Link to application](https://pdf-merger-773h7kdr4j.streamlit.app/)
 
