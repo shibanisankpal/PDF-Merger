@@ -27,9 +27,8 @@ The PDF Merger App is a simple web application that allows users to merge multip
 - **User Consent**: The app explicitly asks for user consent before merging the uploaded PDF files.
 - **Data Deletion**: Uploaded PDF files are processed in-memory and discarded once the merging process is complete.
 
-## Usage
 
-To use the PDF Merger App, follow these steps:
+To run the PDF Merger App, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies (`streamlit` and `PyPDF2`) using `pip`.
