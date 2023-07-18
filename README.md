@@ -33,7 +33,7 @@ To use the PDF Merger App, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Install the required dependencies (`streamlit` and `PyPDF2`) using `pip`.
-3. Run the app using `streamlit run pdf_merger_app.py`.
+3. Run the app using `streamlit run app.py`.
 4. Access the app through your web browser at `http://localhost:8501`.
 
 ## Requirements
