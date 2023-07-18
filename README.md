@@ -42,13 +42,4 @@ To use the PDF Merger App, follow these steps:
 - Streamlit (install using `pip install streamlit`)
 - PyPDF2 (install using `pip install PyPDF2`)
 
-## Contributing
 
-Contributions to the PDF Merger App are welcome! If you encounter any issues, have feature requests, or want to contribute improvements, please submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-For additional information or inquiries, please contact [your-email@example.com].
