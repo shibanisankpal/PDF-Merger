@@ -3,7 +3,7 @@
 
 ## Overview
 
-The PDF Merger App is a simple web application that allows users to merge multiple PDF files into a single PDF document. The app is designed to be user-friendly, secure, and privacy-conscious.
+The PDF Merger App is a simple web application that allows users to merge multiple PDF files into a single PDF document. The app is designed to be user-friendly and secure.
 
 ## Features
 
